@@ -79,16 +79,6 @@ To accurately classify news articles as **real** or **fake** using modern neural
 
 ---
 
-## 🧑‍💻 Authors
-
-- Jatavath Siddhartha Nayak – IIIT Allahabad
-- Siddenthi Uday Kumar – IIIT Allahabad
-- Kushal Bansal – IIIT Allahabad
-- Aditya Khairnar – IIIT Allahabad
-- Sushmitha Pothuraju – IIIT Allahabad
-
----
-
 ## 📚 References
 
 - [Fake News Challenge Dataset - Kaggle](https://www.kaggle.com/competitions/fake-news/data)
